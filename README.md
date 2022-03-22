@@ -6,7 +6,7 @@ A graduate student of  <a href="https://umich.edu/"> University of Michigan</a> 
 
 👨‍🎓  University of Michigan, Ann Arbor
 
-👨‍💻   Major: Industrial And Opereations Engineering 
+👨‍💻   Major: Industrial And Opereations Engineering   
             Economics 
 
 📫 How to reach me: siyucch@gmail.com
