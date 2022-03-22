@@ -9,8 +9,6 @@ A graduate student of  <a href="https://umich.edu/"> University of Michigan</a> 
 👨‍💻   Major: Industrial And Opereations Engineering 
             Economics 
 
-📃 More information please see [Resume]()
-
 📫 How to reach me: siyucch@gmail.com
 
 
