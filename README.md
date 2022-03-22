@@ -20,7 +20,3 @@ A graduate student of  <a href="https://www.northwestern.edu/">Northwestern Univ
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=siyuchen-cc&show_icons=true)
-
- <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> <a href="https://github.com/siyuchen-cc"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
