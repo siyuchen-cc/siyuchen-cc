@@ -4,7 +4,7 @@ A Data Science Senior Analyst at Accenture based in San Francisco.
 
 Graduated from <a href="https://umich.edu/"> University of Michigan</a> and major in <a href="https://ioe.engin.umich.edu/">Industrial And Opereations Engineering </a>.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-I brings nearly three years of experience as a Data Science Senior Analyst at Accenture, complemented by dual Master’s degrees in Industrial & Operations Engineering and Economics from the University of Michigan. She has a robust data science toolkit spanning statistical analysis, machine learning, experimentation (including A/B testing), and causal inference. My expertise also includes optimization modeling and large-scale data analysis using Python and SQL.
+I have nearly three years of experience as a Data Science Senior Analyst at Accenture, complemented by dual Master’s degrees in Industrial & Operations Engineering and Economics from the University of Michigan. She has a robust data science toolkit spanning statistical analysis, machine learning, experimentation (including A/B testing), and causal inference. My expertise also includes optimization modeling and large-scale data analysis using Python and SQL.
 
 I excels at applying advanced analytical methods to extract actionable insights and develop impactful, data-driven solutions. I'm highly results-oriented, consistently translating complex data into measurable business value. 
 
