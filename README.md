@@ -1,6 +1,6 @@
 ### Hey, It's Siyu.
 
-A Data Science Senior Analyst at Accenture based in San Francisco.
+A Data Science Consultant at Accenture based in San Francisco.
 
 Graduated from <a href="https://umich.edu/"> University of Michigan</a> and major in <a href="https://ioe.engin.umich.edu/">Industrial And Opereations Engineering </a>.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
